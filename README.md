@@ -10,7 +10,7 @@ Welcome to the Password Generator project! This tool helps users create strong, 
 2. Password Strength Indicator:
   - The tool provides a visual indication of password strength based on its length:
     - Red: Length ≤ 5 (Weak)
-    -Yellow: 5 < Length ≤ 7 (Moderate)
+    - Yellow: 5 < Length ≤ 7 (Moderate)
     - Green: 8 ≤ Length ≤ 20 (Strong)
   - Helps users assess the robustness of their generated passwords.
 
